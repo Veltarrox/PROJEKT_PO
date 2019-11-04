@@ -19,5 +19,6 @@ Editors/Tools:
     UML sequence diagram editor -
     UML activity diagram editor -
     Linux pipeline editor -
-    checklist manager -
+    checklist manager - Jan Todek
     versioning system merge aid -
+https://github.com/Goslawq/PROJEKT_PO
